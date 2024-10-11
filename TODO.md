@@ -3,6 +3,7 @@
 **Iliass RAIHANI**  
 **Créé :** 09/10/24
 **Brif Template :** https://www.w3schools.com/w3css/tryw3css_templates_dark_portfolio.htm#
+**Level:** Niveau 1.
 
 ---
 
@@ -32,6 +33,7 @@ La plateforme d'apprentissage **w3schools.com** souhaite que vous fassiez une in
 ## Modalités d'évaluation
 
 Vous présenterez votre travail en français :
+
 - **5 minutes :** Simulation de l'application web attendue.
 - **5 minutes :** Code Review + Questions Techniques.
 
@@ -45,12 +47,11 @@ Lien vers le repository GitHub qui contient le code source du site web avec tous
 
 ~
 css
-|_ style.css
+|\_ style.css
 index.html
 ~
 
 ---
-
 
 ## Critères de performance
 
